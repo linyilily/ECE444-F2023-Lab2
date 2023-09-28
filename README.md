@@ -1,5 +1,7 @@
 this repo is a clone of
 https://github.com/varadbhogayata/varadbhogayata.github.io
+![image](https://github.com/linyilily/linyilily.github.io/assets/71032637/23b5bf63-fb75-4a64-adcd-c7f15871aaa0)
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
