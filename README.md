@@ -2,6 +2,10 @@ this repo is a clone of
 https://github.com/varadbhogayata/varadbhogayata.github.io
 ![image](https://github.com/linyilily/linyilily.github.io/assets/71032637/23b5bf63-fb75-4a64-adcd-c7f15871aaa0)
 ![preview](https://github.com/linyilily/linyilily.github.io/assets/71032637/04f95895-a454-49f3-99ad-387f1d51cfe0)
+forgot to take screenshot after activity 2. The last commit for activity 2 is 5c02b81.
+![Screenshot from 2023-10-01 14-28-34](https://github.com/linyilily/linyilily.github.io/assets/71032637/3cdbf821-fbf3-448a-bf03-70971953a88d)
+![Screenshot from 2023-10-01 14-35-13](https://github.com/linyilily/linyilily.github.io/assets/71032637/30226b76-b6d4-41a0-8e25-f619312da382)
+
 
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
