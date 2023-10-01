@@ -18,7 +18,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://linyilily.github.io/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://linyilily.github.io/" target="_blank"><img src="examples/preview_lily.gif">
   </a>
   </kbd>
 </p>
