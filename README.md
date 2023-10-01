@@ -5,6 +5,8 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 forgot to take screenshot after activity 2. The last commit for activity 2 is 5c02b81.
 ![Screenshot from 2023-10-01 14-28-34](https://github.com/linyilily/linyilily.github.io/assets/71032637/3cdbf821-fbf3-448a-bf03-70971953a88d)
 ![Screenshot from 2023-10-01 14-35-13](https://github.com/linyilily/linyilily.github.io/assets/71032637/30226b76-b6d4-41a0-8e25-f619312da382)
+![Screenshot from 2023-10-01 15-35-59](https://github.com/linyilily/linyilily.github.io/assets/71032637/010a811c-b2cb-4eb5-aab5-fec12984c010)
+![Screenshot from 2023-10-01 15-36-11](https://github.com/linyilily/linyilily.github.io/assets/71032637/787d9ed2-0590-48be-866e-a56409fd251c)
 
 
 # Personal Portfolio ⚡️ 
