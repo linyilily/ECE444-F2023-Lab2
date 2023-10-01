@@ -1,23 +1,24 @@
 this repo is a clone of
 https://github.com/varadbhogayata/varadbhogayata.github.io
 ![image](https://github.com/linyilily/linyilily.github.io/assets/71032637/23b5bf63-fb75-4a64-adcd-c7f15871aaa0)
+![preview](https://github.com/linyilily/linyilily.github.io/assets/71032637/04f95895-a454-49f3-99ad-387f1d51cfe0)
 
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://varadbhogayata.github.io
+> [https://linyilily.github.io/](https://linyilily.github.io/)
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
+![GitHub stars](https://img.shields.io/github/stars/linyilily/linyilily.github.io) 
+![GitHub forks](https://img.shields.io/github/forks/linyilily/linyilily.github.io)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/linyilily/linyilily.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://linyilily.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/lily-l-1311b8225/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://linyilily.github.io/" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
@@ -47,7 +48,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+To view a live example, **[click here](https://linyilily.github.io/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
